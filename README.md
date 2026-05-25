@@ -1,5 +1,6 @@
 # Infogames.coom
 Información sobre videojuegos allí onde vaya.
+
 [Infogames.com 4.0.html](https://github.com/user-attachments/files/28233258/Infogames.com.4.0.html)
 <!DOCTYPE html>
 <html lang="es">
